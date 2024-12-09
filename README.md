@@ -9,12 +9,12 @@ This project aims to predict the Performance Index of students based on various 
 The dataset contains the following attributes:
 
 **Feature	Description**
-1. Hours Studied	Number of hours an individual has studied (numeric).
-2. Previous Scores	Scores obtained by the individual in previous evaluations/tests (numeric).
-3. Extracurricular Activities	Participation in extracurricular activities (yes or no) (categorical).
-4. Sleep Hours	Average number of hours of sleep the individual gets daily (numeric).
-5. Sample Question Papers Practiced	The number of sample question papers practiced by the individual (numeric).
-6. Performance Index	Overall performance score calculated for the individual (numeric, target).
+1. Hours Studied-	Number of hours an individual has studied (numeric).
+2. Previous Scores-	Scores obtained by the individual in previous evaluations/tests (numeric).
+3. Extracurricular Activities-	Participation in extracurricular activities (yes or no) (categorical).
+4. Sleep Hours-	Average number of hours of sleep the individual gets daily (numeric).
+5. Sample Question Papers Practiced	-The number of sample question papers practiced by the individual (numeric).
+6. Performance Index	-Overall performance score calculated for the individual (numeric, target).
    
 The dataset contains 10,000 records with no missing values.
 
