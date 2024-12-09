@@ -60,7 +60,7 @@ matplotlib and seaborn for data visualization.
 sklearn for regression modeling.
 
 statsmodels for statistical analysis.
-______________________________________________________________________--
+______________________________________________________________________
 
 #### **Future Work**
 
